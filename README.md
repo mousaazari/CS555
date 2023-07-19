@@ -2,7 +2,8 @@
 
 Welcome to the Computer Vision Course repository! This repository contains assignments, projects, and resources related to the field of computer vision. Throughout this course, you will gain practical knowledge and hands-on experience in various computer vision techniques, algorithms, and applications.
 
-Course Overview
+##Course Overview
+
 The Computer Vision Course covers the following key topics:
 
 Image Processing: Learn fundamental techniques for image manipulation, enhancement, and transformation.
