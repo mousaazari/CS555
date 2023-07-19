@@ -1,6 +1,5 @@
 # CS555 Computer Vision - Programming Assignments
 
-Abstract
 Welcome to the Computer Vision Course repository! This repository contains assignments, projects, and resources related to the field of computer vision. Throughout this course, you will gain practical knowledge and hands-on experience in various computer vision techniques, algorithms, and applications.
 
 Course Overview
